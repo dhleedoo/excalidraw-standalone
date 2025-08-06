@@ -1,6 +1,6 @@
 # Excalidraw Standalone
 
-🎨 **Excalidraw 로컬 실행용 패키지** - 협업 서버 포함
+🎨 **Excalidraw 로컬 실행용 패키지** - 협업 서버 포함 (개발용은 원본 참고. [Excalidraw](https://github.com/excalidraw/excalidraw) | [Excalidraw Room](https://github.com/excalidraw/excalidraw-room))
 
 ## 📁 구성
 
@@ -69,7 +69,7 @@ CORS_ORIGIN=*
 
 ## 📝 특징
 
-- ✅ **빌드 없이 설정 변경** - `config.json` 파일만 수정
+- ✅ **빌드 없이 설정 변경** - `config.json` 파일만 수정 (원본과 다름)
 - ✅ **로컬 실행** - 인터넷 연결 없이 사용 가능
 - ✅ **윈도우 호환** - Windows 환경에서 테스트 완료
 
