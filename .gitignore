@@ -1,0 +1,21 @@
+# 소스코드 폴더는 제외
+excalidraw_src/
+collab_src/
+
+# 설치 가이드는 포함하지 않음 (실행용만 공유)
+excalidraw-setup.md
+collaboration-setup.md
+CLAUDE.md
+chat-log.md
+
+# README.md는 포함
+
+# Node.js
+node_modules/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+.DS_Store
+Thumbs.db
